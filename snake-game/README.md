@@ -16,3 +16,16 @@ python main.py
 ```
 
 ## 📁 Project Structure
+snake-game/
+
+├── main.py          # Game loop and collision detection
+
+├── snake.py         # Snake class — movement and growth
+
+├── food.py          # Food class — random placement
+
+├── scoreboard.py    # Score display and high score saving
+
+├── data.txt         # Stores the persistent high score
+
+└── README.md        # This file
