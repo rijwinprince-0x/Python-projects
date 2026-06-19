@@ -12,11 +12,6 @@ This application helps students and developers stay productive using the Pomodor
 
 ---
 
-## Preview
-![Pomodoro Timer](pomodoro-app.png)
-
----
-
 ## Features
 
 ✅ 25-minute focus sessions
