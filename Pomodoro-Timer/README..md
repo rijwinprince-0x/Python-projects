@@ -123,5 +123,5 @@ This project helped practice:
 
 **Rijwin Prince**
 
-Cybersecurity Student & Python Learner
+
 
