@@ -12,9 +12,11 @@ This application helps students and developers stay productive using the Pomodor
 
 ---
 
-## Screenshot
+## Preview
 
-![Pomodoro Timer](screenshots/pomodoro-app.png)
+<p align="center">
+  <img src="screenshots/pomodoro-app.png" width="800">
+</p>
 
 ---
 
