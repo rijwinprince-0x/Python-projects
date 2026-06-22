@@ -39,6 +39,6 @@ Suggestions, feedback, and improvements are always welcome.
 ---
 ## 👨‍💻 Author
 **Rijwin Prince**
-GitHub: https://github.com/rijwinprince-0x
+GitHub:https://github.com/rijwinprince-0x
 ---
 ⭐ If you find these projects interesting, consider starring the repository.
